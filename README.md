@@ -1,2 +1,2 @@
 # leaflet-js
-Simple demo if leaflet using vanilla Javascript and HTML
+Simple demo of leaflet using vanilla Javascript and HTML
